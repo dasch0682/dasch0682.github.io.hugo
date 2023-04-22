@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'fr-fr'
+title = 'Test d'un site hugo pour DASCH0682'
 theme = 'ananke'
